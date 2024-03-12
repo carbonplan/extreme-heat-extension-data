@@ -5,11 +5,11 @@
 </picture>
 </p>
 
-# carbonplan / extreme heat extension data
+# carbonplan / extreme-heat-extension-data
 
 ## summary
 
-This repository provides access to code, data, and pre-generated figures to assess the risk of extreme humid heat in cities across Southeast Europe. The work containd here builds on a [previous work](https://github.com/carbonplan/extreme-heat), expanding the dataset's number of scenarios and time coverage. The data is fully reproducible using a codebase located [here](https://github.com/carbonplan/extreme-heat-extension). The work was supported by The World Bank's Global Practice for Urban, Resilience and Land and Global Facility for Disaster Reduction and Recovery.
+This repository provides access to code, data, and pre-generated figures to assess the risk of extreme humid heat in cities across Southeast Europe. The work contained here builds on [previous work](https://github.com/carbonplan/extreme-heat), expanding the dataset's number of scenarios and time coverage. The data is fully reproducible using a codebase located [here](https://github.com/carbonplan/extreme-heat-extension). The work was supported by The World Bank's Global Practice for Urban, Resilience and Land and Global Facility for Disaster Reduction and Recovery.
 
 ## data
 
