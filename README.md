@@ -13,7 +13,7 @@ This repository provides access to code, data, and pre-generated figures to asse
 
 ## data
 
-The final output dataset includes historical and future estimates of WBGT in the shade and in the sun for 130 cities and ~24,000 climatically-similar regions around the world. The full analysis includes 26 global climate models (GCMs) and one emissions scenario (SSP2-4.5). To support different use cases, we've made the results available at a few different levels of granularity and in two different formats. The available data is summarized below in order of increasing detail and size. For each row, click on the `List` to see a full list of files and their associated URLs.
+The final output dataset includes historical and future estimates of WBGT in the shade and in the sun for 130 cities across Southeast Europe. The full analysis includes 22 global climate models (GCMs) and two emissions scenarios (SSP2-4.5 and SSP3-7.0). To support different use cases, we've made the results available at a few different levels of granularity and in two different formats. The available data is summarized below in order of increasing detail and size. For each row, click on the `List` to see a full list of files and their associated URLs.
 
 | Data                                            | Format | Files                                   | Uses                                                     |
 | ----------------------------------------------- | ------ | --------------------------------------- | -------------------------------------------------------- |
